@@ -6,13 +6,12 @@ The dataset contains detailed information on IPL matches played from 2008 to 201
 The dataset was sourced from https://github.com/MainakRepositor/Datasets/tree/master/IPL  
 The dataset comprises three CSV files: deliveries.csv, matches.csv, and most_runs_average_strikerate.csv.
 
-**Overview**
+**Overview**  
 Data Loading  
 Data Cleaning  
 Data Analysis Using Descriptive Statistics  
 Data Manipulation(Data Aggregation)  
 Exploratory Data Analysis
-
 
 **Conclusion**
 
